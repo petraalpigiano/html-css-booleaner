@@ -3,7 +3,7 @@
     background-image:url(./img/pattern.png);
     padding-top: 40px;
     padding-bottom: 10px;
-    p
+    
 }
 address {
     color: #878787;
@@ -14,5 +14,28 @@ address {
 }
 figure {
     margin-left: 0px;
+}
+ul {
+    padding-left: 15px;
+}
+thead {
+    background-color: #24a7e3;
+    color: white;
+}
+#terza-intestazione{
+    text-align: left;
+}
+.terza-cella {
+    text-align: justify;
+    /* text-align: right; */
+}
+.seconda-cella {
+    padding-left: 150px;
+    padding-right: 150px;
+
+}
+.sfondo-colorato{
+    background-color: #b1e5f2;
+
 }
 
