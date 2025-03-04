@@ -18,6 +18,11 @@ figure {
 ul {
     padding-left: 15px;
 }
+table{
+    border-spacing: 0px;
+    border-collapse: collapse;
+    border-color: white;
+}
 thead {
     background-color: #24a7e3;
     color: white;
@@ -32,11 +37,9 @@ thead {
 .seconda-cella {
     padding-left: 150px;
     padding-right: 150px;
-
 }
 .sfondo-colorato{
     background-color: #b1e5f2;
-
 }
 #h2-basso{
     color: #969696;
